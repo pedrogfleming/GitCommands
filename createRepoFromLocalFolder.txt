@@ -1,0 +1,8 @@
+To create new repo from a local folder with a project
+
+git init -b main
+git add .
+git commit -m "Commit Text"
+git remote add origin https://github.com/pedrogfleming/nameOfRepo.git
+git push -u origin main
+git push origin main
