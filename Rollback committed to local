@@ -1,0 +1,4 @@
+//Los cambios commiteados me los vuelve a poner en el stage de modificado localmente
+git reset --soft HEAD~1
+git reset --soft HEAD~2
+git reset --soft HEAD~3
