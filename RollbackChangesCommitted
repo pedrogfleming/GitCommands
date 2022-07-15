@@ -1,0 +1,2 @@
+Deshacer los últimos n commit que se hizo localmente
+git reset --hard HEAD~1
