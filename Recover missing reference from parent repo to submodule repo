@@ -1,3 +1,6 @@
 git submodule update --init
 git config -f .gitmodules submodule.<pathToDirectory>.branch <NameOfBranch>
 git submodule update --remote
+
+https://stackoverflow.com/questions/44175070/git-submodule-has-a-wrong-reference-to-its-remote-repository
+https://stackoverflow.com/questions/1777854/how-can-i-specify-a-branch-tag-when-adding-a-git-submodule/18799234#18799234
